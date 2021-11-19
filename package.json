@@ -1,0 +1,19 @@
+{
+  "name": "cryptozombie",
+  "version": "1.0.0",
+  "description": "Zombie game made with solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niteshp55/crypto-zombie-game.git"
+  },
+  "keywords": [
+    "zombie",
+    "crypto"
+  ],
+  "author": "Nitesh Padghan",
+  "license": "ISC"
+}
